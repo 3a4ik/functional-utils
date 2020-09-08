@@ -16,8 +16,6 @@
   "homepage": "https://github.com/3a4ik/functional-utils#readme",
   "devDependencies": {
     "chai": "^4.2.0",
-    "eslint": "^7.8.1",
-    "eslint-plugin-node": "^11.1.0",
     "esm": "^3.2.25",
     "mocha": "^8.1.3"
   }
