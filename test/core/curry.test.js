@@ -1,5 +1,6 @@
 import { assert } from 'chai';
-import { curry } from '../../core/curry';
+
+import { curry } from '../../src/core/curry';
 
 describe('curry', function() {
   describe('Not curried functions', function() {
